@@ -815,6 +815,7 @@ public class ZygoteInit {
         return result;
     }
 
+    // caijialun maybe Start from here
     @UnsupportedAppUsage
     public static void main(String argv[]) {
         ZygoteServer zygoteServer = null;
